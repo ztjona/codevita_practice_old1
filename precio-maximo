@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+	int x;
+	cout<<"Ingrese el precio maximo de Philaland: "; cin>>x;
+	int y=0;
+	int z=1;
+	while(z<=x){
+		y++;
+		z+=y;		
+	}
+	cout<<"ha contado un total "<<y<<" denominaciones para cualquier precio maximo de Philaland "<<endl;
+}
