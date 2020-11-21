@@ -14,3 +14,6 @@ Wrong answer on private cases means that it passed the public cases but not the 
 ## About the problems
 You can check the statement of every problem at the official web site.
 https://practice.tcscodevita.com/
+
+## Important tips about the contest
+* Avoid using non standard characters such as é, ñ, etc in your code. Even in the comments.
