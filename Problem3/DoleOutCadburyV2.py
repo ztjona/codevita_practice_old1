@@ -73,9 +73,9 @@ def getChocolates(width, lenght):
                     resta, menor)  # llamada recursiva
                 fSobrante = f_x[(resta, menor)]
 
-            # # actualizo todos los valores del mUltiplo
-            # for i in range(1, multiplos + 1):
-            #     f_x[(menor*i, menor)] = i
+            # actualizo todos los valores del mUltiplo
+            for i in range(1, multiplos + 1):
+                f_x[(menor*i, menor)] = i
 
             f_x[(width, lenght)] = f_x[(multiplos*menor, menor)] + fSobrante
 
