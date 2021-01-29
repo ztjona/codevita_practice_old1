@@ -1,5 +1,6 @@
 # Information
 This repository contains solutions in python3 (or in CPP in emergencies) of the practice challenges published by the TCS Code Vita contest 2020.
+Note: the problem statement was removed fro the source.
 ## Summary
 The following items show the results on every tried challenge:
 
@@ -23,6 +24,7 @@ Wrong answer on private cases means that it passed the public cases but not the 
 ## About the problems
 You can check the statement of every problem at the official web site.
 https://practice.tcscodevita.com/
+Note: the problem statement was removed fro the source.
 
 ## Important tips about the contest
 * Avoid using non standard characters such as é, ñ, etc in your code. Even in the comments.
